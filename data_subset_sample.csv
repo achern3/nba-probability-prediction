@@ -1,0 +1,11 @@
+uid,quarter,time,event,description,score
+0,1,0:00,jumpBall,wonBy:HOME,
+0,1,0:13,fieldGoalAttempt,outcome:SCORED,0 - 3
+0,1,0:39,fieldGoalAttempt,outcome:MISSED,
+0,1,0:39,rebound,offensiveOrDefensive:DEF,
+0,1,0:56,fieldGoalAttempt,outcome:SCORED,0 - 6
+0,1,1:11,fieldGoalAttempt,outcome:MISSED,
+0,1,1:11,rebound,offensiveOrDefensive:DEF,
+0,1,1:19,fieldGoalAttempt,outcome:SCORED,0 - 8
+0,1,1:19,freeThrowAttempt,outcome:SCORED,0 - 9
+0,1,1:19,foul,foulType:S.FOUL,
